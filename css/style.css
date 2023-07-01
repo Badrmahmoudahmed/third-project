@@ -346,6 +346,17 @@ footer{
         color: black;
     }
 }
+@media screen and (max-width:600px) {
+    .home-cap h1{
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .home-cap p{
+        font-size: 20px;
+        font-weight: 100;
+    }
+}
+
 
 
 
