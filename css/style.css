@@ -1,6 +1,9 @@
 h1,h2,h3,h4,h5,h6{
     font-family: "Montserrat", sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 .for-shadow span{
     text-shadow: 5px 3px  rgb(226, 225, 225);
     position: relative;
